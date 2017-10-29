@@ -1,0 +1,9 @@
+
+apex_domain = "APEX_DOMAIN"
+site_domain = "SITE_DOMAIN"
+
+access_key = "AWS_ACCESS_KEY"
+secret_key = "AWS_SECRET_KEY"
+
+acm_certificate_arn = "AWS_ACM_CERTIFICATE_ARN"
+
